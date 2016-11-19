@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1493047A-32E2-28B2-54A0-E2F84C20C79E}") = "PickingBerries", "Assembly-CSharp-firstpass.csproj", "{384F9D8D-97C5-B1EF-3400-858687F82DC3}"
+EndProject
+Project("{1493047A-32E2-28B2-54A0-E2F84C20C79E}") = "PickingBerries", "Assembly-CSharp.csproj", "{2095A8D7-A857-BB60-2BF2-4B07510FDD15}"
+EndProject
+Project("{1493047A-32E2-28B2-54A0-E2F84C20C79E}") = "PickingBerries", "Assembly-CSharp-Editor.csproj", "{0EEB90F7-ABC2-E194-5E50-BC1019F3A2B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{384F9D8D-97C5-B1EF-3400-858687F82DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384F9D8D-97C5-B1EF-3400-858687F82DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384F9D8D-97C5-B1EF-3400-858687F82DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384F9D8D-97C5-B1EF-3400-858687F82DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2095A8D7-A857-BB60-2BF2-4B07510FDD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2095A8D7-A857-BB60-2BF2-4B07510FDD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2095A8D7-A857-BB60-2BF2-4B07510FDD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2095A8D7-A857-BB60-2BF2-4B07510FDD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EEB90F7-ABC2-E194-5E50-BC1019F3A2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEB90F7-ABC2-E194-5E50-BC1019F3A2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEB90F7-ABC2-E194-5E50-BC1019F3A2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEB90F7-ABC2-E194-5E50-BC1019F3A2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
